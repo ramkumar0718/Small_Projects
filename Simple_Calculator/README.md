@@ -1,3 +1,3 @@
-# Simple-Calculator
-Simple Calculator in Python
+# Simple_Calculator
+The simple calculator in Python
 
