@@ -10,7 +10,7 @@ def intro_func():
     print("Calculate Split:", "\nUsers:", sep="\n")
     for ind, name in enumerate(user_names, 1):
         print(ind, "-", name)
-    print("\nChoices:", "d - Divide the amount to all", "a - Add money", "s - Sub money", "h - History", "q - Quit\n", sep="\n")
+    print("\nChoices:", "d - Divide the amount", "a - Add money", "s - Sub money", "h - History", "q - Quit\n", sep="\n")
 
 def history_func():
     print("\nHistory:")
